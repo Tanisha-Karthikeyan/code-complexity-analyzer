@@ -17,7 +17,7 @@ A Java desktop application built using Java Swing to analyze Java source code an
 - Calculate Cyclomatic Complexity
 - Detect recursive methods
 - Generate code quality scores
-- Provide optimization suggestions
+- Provide required suggestions
 - Export analysis reports
 
 ## Technologies Used
